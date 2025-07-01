@@ -23,20 +23,21 @@ ul{
     color: white;
     list-style: none;
    display: flex;
-   gap: 15px;
-   font-size: 14px;
-   text-decoration:solid;
+   gap: 12px;
+   font-size: 12px;
+   text-decoration: solid;
+  
   
 }
 p{
     color: white;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: 120px;
 }
 
 #n2{
     color: white;
-    font-size: 15px;
+    font-size: 12px;
     margin: 80px;
 }
 
